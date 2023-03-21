@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/raytracer.dir/main.cpp.o CMakeFiles/raytracer.dir/tuple.cpp.o CMakeFiles/raytracer.dir/vec.cpp.o CMakeFiles/raytracer.dir/color.cpp.o CMakeFiles/raytracer.dir/canvas.cpp.o CMakeFiles/raytracer.dir/matrix.cpp.o CMakeFiles/raytracer.dir/transformations.cpp.o CMakeFiles/raytracer.dir/ray.cpp.o CMakeFiles/raytracer.dir/sphere.cpp.o -o raytracer 

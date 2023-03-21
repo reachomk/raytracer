@@ -1,0 +1,4 @@
+    .idea/
+    .vscode/
+    build_linux/
+    cmake-build-debug/
