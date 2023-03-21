@@ -1,4 +1,4 @@
-    .idea/
-    .vscode/
-    build_linux/
-    cmake-build-debug/
+.idea/*
+.vscode/*
+build_linux/*
+cmake-build-debug/*

@@ -1,3 +1,0 @@
-/mnt/c/Om/Coding/C++/raytracer/build_linux/CMakeFiles/raytracer.dir
-/mnt/c/Om/Coding/C++/raytracer/build_linux/CMakeFiles/edit_cache.dir
-/mnt/c/Om/Coding/C++/raytracer/build_linux/CMakeFiles/rebuild_cache.dir
